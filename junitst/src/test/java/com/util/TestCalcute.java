@@ -13,6 +13,7 @@ public class TestCalcute {
 	
 	@Test
 	public void testAdd(){
-		//assertArrayEquals.
+		assertArrayEquals.
+		/////////////////
 	}
 }
